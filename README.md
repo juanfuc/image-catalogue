@@ -1,1 +1,1 @@
-A simple app to display the collection of images of my thesis taking into account different categories. It is part of a first effort to refine the metadata of the images to later make more complex visualizations.
+A simple Svelte app to display the collection of images of my thesis taking into account different categories. It is part of a first effort to refine the metadata of the images to later make more complex visualizations.
